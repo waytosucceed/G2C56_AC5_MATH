@@ -1,0 +1,72 @@
+[
+  {
+    "questionNo": 1,
+    "question": "Here are 12 action toys. They are shared equally between 2 kids.",
+    "options":["Each kid gets","","action toys"],
+    "answers": ["Each kid gets","6","action toys"],
+    "secondImg":"./images/11.jpg"
+  },
+  {
+    "questionNo": 2,
+    "question": "You have 9 toy cars to distribute equally among 3 kids.",
+    "options":["Each kid gets","","toy cars"],
+    "answers": ["Each kid gets","3","toy cars"],
+    "secondImg":"./images/12.jpg"
+  },
+  {
+    "questionNo": 3,
+    "question": "Fun Times has 10 bouncing balls, and 2 friends want to split them equally.",
+    "options":["Each kid gets","","bouncing balls"],
+    "answers": ["Each kid gets","5","bouncing balls"],
+    "secondImg":"./images/13.jpg"
+  },
+  {
+    "questionNo": 4,
+    "question": "There are 15 stuffed animals that 5 kids want to share.",
+    "options":["Each kid gets","","stuffed animals"],
+    "answers": ["Each kid gets","5","stuffed animals"],
+    "secondImg":"./images/14.jpg"
+  },
+  {
+    "questionNo": 5,
+    "question": "You brought 10 colourful spinning tops to share equally between 2 kids.",
+    "options":["Each kid gets","","spinning top"],
+    "answers": ["Each kid gets","5","spinning top"],
+    "secondImg":"./images/15.jpg"
+  },
+  {
+    "questionNo": 6,
+    "question": "Fun Times set aside 12 puzzle cubes for a group of 4 kids.",
+    "options":["Each kid gets","","puzzle cubes"],
+    "answers": ["Each kid gets","3","puzzle cubes"],
+    "secondImg":"./images/16.jpg"
+  },
+  {
+    "questionNo": 7,
+    "question": "There are 14 dolls and 2 kids who want to share them equally. ",
+    "options":["Each kid gets","","dolls"],
+    "answers": ["Each kid gets","7","dolls"],
+    "secondImg":"./images/17.jpg"
+  },
+  {
+    "questionNo": 8,
+    "question": "You have 8 glow-in-the-dark yo-yos, and you want to give them to 4 kids equally. ",
+    "options":["Each kid gets","","glow in dark yo yos"],
+    "answers": ["Each kid gets","2","glow in dark yo yos"],
+    "secondImg":"./images/18.jpg"
+  },
+  {
+    "questionNo": 9,
+    "question": "Fun Times brought 12 mini robots, and there are 3 kids who want to share them equally.",
+    "options":["Each kid gets","","mini robots"],
+    "answers": ["Each kid gets","4","mini robots"],
+    "secondImg":"./images/19.jpg"
+  },
+  {
+    "questionNo": 10,
+    "question": "Fun Times has 8 colourful marbles, and 2 kids want to share them equally.",
+    "options":["Each kid gets","","marbles"],
+    "answers": ["Each kid gets","4","marbles"],
+    "secondImg":"./images/20.jpg"
+  }
+]
